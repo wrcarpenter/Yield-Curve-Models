@@ -1,4 +1,4 @@
-# Yield_Curve_Models
+# Yield Curve Models
 
 Yield curve is also known as the term structure of interest rates. It represents spot interest rates for various maturities. Another useful name is the "term structure of spot rates." The latter is probably the most clear. 
 
